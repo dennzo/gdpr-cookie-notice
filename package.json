@@ -24,6 +24,7 @@
     "js-cookie": "^2.2.0",
     "mustard-ui": "0.0.7",
     "normalize.css": "^8.0.0",
-    "sass-svg": "^1.2.0"
+    "sass-svg": "^1.2.0",
+    "natives": "^1.1.6"
   }
 }
